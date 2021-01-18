@@ -3,7 +3,11 @@ RENCANA TUGAS WPU
  -logo web
  -tampilan dasboard
 -membuat data base
+ -database petugas
  -database guru
  -database siswa
 -membuat frontend
+ -mengunakan html
+ -menggunakan css
+ -menggunakan php
 -membuat backend
