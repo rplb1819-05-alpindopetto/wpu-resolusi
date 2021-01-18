@@ -4,4 +4,4 @@ WPU RESOLUSI
 -membuat game
 -membuat vidio
 -membuat animation
--membuat karakter vidio
+-membuat vidio transition
