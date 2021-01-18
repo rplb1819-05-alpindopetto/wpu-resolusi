@@ -1,0 +1,5 @@
+RENCANA TUGAS WPU
+-Membuat design web
+-membuat data base
+-membuat frontend
+-membuat backend
