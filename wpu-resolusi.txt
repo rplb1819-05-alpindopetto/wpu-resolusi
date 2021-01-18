@@ -3,3 +3,5 @@ WPU RESOLUSI
 -Membuat design
 -membuat game
 -membuat vidio
+-membuat animation
+-membuat karakter vidio
