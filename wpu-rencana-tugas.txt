@@ -1,7 +1,9 @@
 RENCANA TUGAS WPU
 -Membuat design web
  -logo web
- -tampilan web
+ -tampilan dasboard
 -membuat data base
+ -database guru
+ -database siswa
 -membuat frontend
 -membuat backend
