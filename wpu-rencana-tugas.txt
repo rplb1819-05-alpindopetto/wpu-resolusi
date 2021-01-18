@@ -3,5 +3,7 @@ RENCANA TUGAS WPU
  -logo web
  -tampilan web
 -membuat data base
+ -database guru
+ -database siswa
 -membuat frontend
 -membuat backend
